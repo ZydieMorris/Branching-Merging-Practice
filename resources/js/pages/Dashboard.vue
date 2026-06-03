@@ -24,6 +24,6 @@ defineOptions({
     >
         Hello Dashboard 2
 
-        <button class="bg-blue-300">Dashboard</button>
+        <Button>Hello</Button>
     </div>
 </template>
