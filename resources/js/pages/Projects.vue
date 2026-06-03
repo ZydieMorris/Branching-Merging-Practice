@@ -21,6 +21,6 @@ defineOptions({
     <div
         class="flex h-full flex-1 flex-col gap-4 overflow-x-auto rounded-xl p-4"
     >
-       Changes from Projects  branch + 1
+       Changes from Projects  branch + 1 hello from Projects branch
     </div>
 </template>
