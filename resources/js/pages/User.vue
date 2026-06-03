@@ -21,6 +21,6 @@ defineOptions({
     <div
         class="flex h-full flex-1 flex-col gap-4 overflow-x-auto rounded-xl p-4"
     >
-        Hello Dashboard 2
+        User 3
     </div>
 </template>
